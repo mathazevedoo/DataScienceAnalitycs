@@ -1,0 +1,15 @@
+##Importanto pacotes necessários
+
+library(tidyverse)
+library(readxl)
+
+# Importanto base de dados
+
+base_dados <- read.csv("BASE_DADOS_MBA.csv",
+                        header = TRUE,
+                        sep = ";",
+                        dec = ".")
+
+View(base_dados)
+
+

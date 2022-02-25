@@ -1,0 +1,26 @@
+{
+    "id": "D5BCD2AA",
+    "path": "C:/Users/Matheus Azevedo/Desktop/MBA/Não Supervisionada/Analise de Cluster/Scripts/1_Nao_supervisionado_USP.R",
+    "project_path": "1_Nao_supervisionado_USP.R",
+    "type": "r_source",
+    "hash": "3271813301",
+    "contents": "",
+    "dirty": false,
+    "created": 1644791597379.0,
+    "source_on_save": false,
+    "relative_order": 1,
+    "properties": {
+        "source_window_id": "",
+        "Source": "Source",
+        "cursorPosition": "134,50",
+        "scrollLine": "113"
+    },
+    "folds": "",
+    "lastKnownWriteTime": 1645129637,
+    "encoding": "UTF-8",
+    "collab_server": "",
+    "source_window": "",
+    "last_content_update": 1645129637,
+    "read_only": false,
+    "read_only_alternatives": []
+}

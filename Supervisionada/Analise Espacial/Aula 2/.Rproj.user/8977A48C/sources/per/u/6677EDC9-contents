@@ -1,0 +1,4 @@
+sf_shoppings$longitude %>% 
+  max()
+
+sf_shoppings$geometry
